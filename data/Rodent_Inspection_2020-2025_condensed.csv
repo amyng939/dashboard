@@ -1,0 +1,1399 @@
+INSPECTION_YEAR,NTA,NUMBER_OF_INSPECTIONS,BOROUGH
+2020,Allerton,172,Bronx
+2020,Annadale-Huguenot-Prince's Bay-Woodrow,55,Staten Island
+2020,Arden Heights-Rossville,54,Staten Island
+2020,Astoria (Central),105,Queens
+2020,Astoria (East)-Woodside (North),322,Queens
+2020,Astoria (North)-Ditmars-Steinway,131,Queens
+2020,Auburndale,21,Queens
+2020,Baisley Park,100,Queens
+2020,Barren Island-Floyd Bennett Field,1,Brooklyn
+2020,Bath Beach,31,Brooklyn
+2020,Bay Ridge,205,Brooklyn
+2020,Bay Terrace-Clearview,2,Queens
+2020,Bayside,30,Queens
+2020,Bedford Park,286,Bronx
+2020,Bedford-Stuyvesant (East),4727,Brooklyn
+2020,Bedford-Stuyvesant (West),7540,Brooklyn
+2020,Bellerose,5,Queens
+2020,Belmont,1904,Bronx
+2020,Bensonhurst,43,Brooklyn
+2020,Borough Park,64,Brooklyn
+2020,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,18,Queens
+2020,Brighton Beach,91,Brooklyn
+2020,Bronx Park,6,Bronx
+2020,Brooklyn Heights,35,Brooklyn
+2020,Brownsville,74,Brooklyn
+2020,Bushwick (East),2792,Brooklyn
+2020,Bushwick (West),5161,Brooklyn
+2020,Cambria Heights,23,Queens
+2020,Canarsie,93,Brooklyn
+2020,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,187,Brooklyn
+2020,Castle Hill-Unionport,112,Bronx
+2020,Central Park,3,Manhattan
+2020,Chelsea-Hudson Yards,492,Manhattan
+2020,Chinatown-Two Bridges,1227,Manhattan
+2020,Claremont Village-Claremont (East),209,Bronx
+2020,Clinton Hill,506,Brooklyn
+2020,Co-op City,3,Bronx
+2020,College Point,19,Queens
+2020,Concourse-Concourse Village,1872,Bronx
+2020,Coney Island-Sea Gate,223,Brooklyn
+2020,Corona,122,Queens
+2020,Crotona Park East,272,Bronx
+2020,Crown Heights (North),2594,Brooklyn
+2020,Crown Heights (South),443,Brooklyn
+2020,Cypress Hills,76,Brooklyn
+2020,Douglaston-Little Neck,6,Queens
+2020,Downtown Brooklyn-DUMBO-Boerum Hill,104,Brooklyn
+2020,Dyker Heights,24,Brooklyn
+2020,East Elmhurst,39,Queens
+2020,East Flatbush-Erasmus,137,Brooklyn
+2020,East Flatbush-Farragut,161,Brooklyn
+2020,East Flatbush-Remsen Village,69,Brooklyn
+2020,East Flatbush-Rugby,214,Brooklyn
+2020,East Flushing,13,Queens
+2020,East Harlem (North),696,Manhattan
+2020,East Harlem (South),495,Manhattan
+2020,East Midtown-Turtle Bay,578,Manhattan
+2020,East New York (North),202,Brooklyn
+2020,East New York-City Line,92,Brooklyn
+2020,East New York-New Lots,98,Brooklyn
+2020,East Village,3025,Manhattan
+2020,East Williamsburg,288,Brooklyn
+2020,Eastchester-Edenwald-Baychester,127,Bronx
+2020,Elmhurst,198,Queens
+2020,Far Rockaway-Bayswater,67,Queens
+2020,Financial District-Battery Park City,91,Manhattan
+2020,Flatbush,239,Brooklyn
+2020,Flatbush (West)-Ditmas Park-Parkville,51,Brooklyn
+2020,Flatlands,76,Brooklyn
+2020,Flushing-Willets Point,62,Queens
+2020,Fordham Heights,999,Bronx
+2020,Forest Hills,34,Queens
+2020,Fort Greene,151,Brooklyn
+2020,Fresh Meadows-Utopia,6,Queens
+2020,Glen Oaks-Floral Park-New Hyde Park,14,Queens
+2020,Glendale,37,Queens
+2020,Gramercy,179,Manhattan
+2020,Grasmere-Arrochar-South Beach-Dongan Hills,93,Staten Island
+2020,Gravesend (East)-Homecrest,43,Brooklyn
+2020,Gravesend (South),53,Brooklyn
+2020,Gravesend (West),58,Brooklyn
+2020,Great Kills-Eltingville,86,Staten Island
+2020,Greenpoint,60,Brooklyn
+2020,Greenwich Village,109,Manhattan
+2020,Hamilton Heights-Sugar Hill,517,Manhattan
+2020,Harlem (North),801,Manhattan
+2020,Harlem (South),884,Manhattan
+2020,Hell's Kitchen,222,Manhattan
+2020,Highbridge,1013,Bronx
+2020,Hollis,23,Queens
+2020,Howard Beach-Lindenwood,28,Queens
+2020,Hunts Point,165,Bronx
+2020,Hutchinson Metro Center,1,Bronx
+2020,Inwood,200,Manhattan
+2020,Inwood Hill Park,1,Manhattan
+2020,Jackson Heights,196,Queens
+2020,Jacob Riis Park-Fort Tilden-Breezy Point Tip,1,Queens
+2020,Jamaica,94,Queens
+2020,Jamaica Estates-Holliswood,20,Queens
+2020,Jamaica Hills-Briarwood,35,Queens
+2020,Kensington,96,Brooklyn
+2020,Kew Gardens,13,Queens
+2020,Kew Gardens Hills,22,Queens
+2020,Kingsbridge Heights-Van Cortlandt Village,159,Bronx
+2020,Kingsbridge-Marble Hill,39,Bronx
+2020,Laurelton,20,Queens
+2020,Long Island City-Hunters Point,31,Queens
+2020,Longwood,273,Bronx
+2020,Lower East Side,1158,Manhattan
+2020,Madison,48,Brooklyn
+2020,Manhattanville-West Harlem,243,Manhattan
+2020,Mapleton-Midwood (West),135,Brooklyn
+2020,Marine Park-Mill Basin-Bergen Beach,55,Brooklyn
+2020,Marine Park-Plumb Island,1,Brooklyn
+2020,Mariner's Harbor-Arlington-Graniteville,58,Staten Island
+2020,Maspeth,76,Queens
+2020,Melrose,157,Bronx
+2020,Middle Village,56,Queens
+2020,Midtown South-Flatiron-Union Square,90,Manhattan
+2020,Midtown-Times Square,141,Manhattan
+2020,Midwood,22,Brooklyn
+2020,Morningside Heights,233,Manhattan
+2020,Morris Park,42,Bronx
+2020,Morrisania,126,Bronx
+2020,Mott Haven-Port Morris,783,Bronx
+2020,Mount Eden-Claremont (West),1376,Bronx
+2020,Mount Hope,1582,Bronx
+2020,Murray Hill-Broadway Flushing,27,Queens
+2020,Murray Hill-Kips Bay,851,Manhattan
+2020,New Dorp-Midland Beach,92,Staten Island
+2020,New Springville-Willowbrook-Bulls Head-Travis,49,Staten Island
+2020,North Corona,42,Queens
+2020,Norwood,756,Bronx
+2020,Oakland Gardens-Hollis Hills,5,Queens
+2020,Oakwood-Richmondtown,43,Staten Island
+2020,Ocean Hill,650,Brooklyn
+2020,Old Astoria-Hallets Point,33,Queens
+2020,Ozone Park,35,Queens
+2020,Ozone Park (North),13,Queens
+2020,Park Slope,212,Brooklyn
+2020,Parkchester,30,Bronx
+2020,Pelham Bay-Country Club-City Island,83,Bronx
+2020,Pelham Gardens,53,Bronx
+2020,Pelham Parkway-Van Nest,159,Bronx
+2020,Pomonok-Electchester-Hillcrest,20,Queens
+2020,Port Richmond,387,Staten Island
+2020,Prospect Heights,383,Brooklyn
+2020,Prospect Lefferts Gardens-Wingate,86,Brooklyn
+2020,Prospect Park,1,Brooklyn
+2020,Queens Village,47,Queens
+2020,Queensboro Hill,24,Queens
+2020,Queensbridge-Ravenswood-Dutch Kills,137,Queens
+2020,Randall's Island,1,Manhattan
+2020,Rego Park,37,Queens
+2020,Richmond Hill,17,Queens
+2020,Ridgewood,803,Queens
+2020,Rikers Island,1,Bronx
+2020,Riverdale-Spuyten Duyvil,57,Bronx
+2020,Rockaway Beach-Arverne-Edgemere,26,Queens
+2020,Rosebank-Shore Acres-Park Hill,27,Staten Island
+2020,Rosedale,9,Queens
+2020,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,54,Brooklyn
+2020,SoHo-Little Italy-Hudson Square,326,Manhattan
+2020,Soundview-Bruckner-Bronx River,490,Bronx
+2020,Soundview-Clason Point,71,Bronx
+2020,South Jamaica,107,Queens
+2020,South Ozone Park,103,Queens
+2020,South Richmond Hill,19,Queens
+2020,South Williamsburg,21,Brooklyn
+2020,Spring Creek-Starrett City,11,Brooklyn
+2020,Springfield Gardens (North)-Rochdale Village,28,Queens
+2020,Springfield Gardens (South)-Brookville,23,Queens
+2020,St. Albans,87,Queens
+2020,St. George-New Brighton,122,Staten Island
+2020,Stuyvesant Town-Peter Cooper Village,5,Manhattan
+2020,Sunnyside,107,Queens
+2020,Sunnyside Yards (South),1,Queens
+2020,Sunset Park (Central),86,Brooklyn
+2020,Sunset Park (East)-Borough Park (West),39,Brooklyn
+2020,Sunset Park (West),98,Brooklyn
+2020,Throgs Neck-Schuylerville,73,Bronx
+2020,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,34,Staten Island
+2020,Tompkinsville-Stapleton-Clifton-Fox Hills,63,Staten Island
+2020,Tottenville-Charleston,23,Staten Island
+2020,Tremont,1214,Bronx
+2020,Tribeca-Civic Center,201,Manhattan
+2020,United Nations,1,Manhattan
+2020,University Heights (North)-Fordham,811,Bronx
+2020,University Heights (South)-Morris Heights,749,Bronx
+2020,Upper East Side-Carnegie Hill,262,Manhattan
+2020,Upper East Side-Lenox Hill-Roosevelt Island,489,Manhattan
+2020,Upper East Side-Yorkville,640,Manhattan
+2020,Upper West Side (Central),1976,Manhattan
+2020,Upper West Side-Lincoln Square,180,Manhattan
+2020,Upper West Side-Manhattan Valley,673,Manhattan
+2020,Van Cortlandt Park,2,Bronx
+2020,Wakefield-Woodlawn,151,Bronx
+2020,Washington Heights (North),225,Manhattan
+2020,Washington Heights (South),367,Manhattan
+2020,West Farms,90,Bronx
+2020,West New Brighton-Silver Lake-Grymes Hill,317,Staten Island
+2020,West Village,820,Manhattan
+2020,Westchester Square,35,Bronx
+2020,Westerleigh-Castleton Corners,62,Staten Island
+2020,Whitestone-Beechhurst,23,Queens
+2020,Williamsbridge-Olinville,262,Bronx
+2020,Williamsburg,194,Brooklyn
+2020,Windsor Terrace-South Slope,19,Brooklyn
+2020,Woodhaven,14,Queens
+2020,Woodlawn Cemetery,1,Bronx
+2020,Woodside,108,Queens
+2020,Yankee Stadium-Macombs Dam Park,5,Bronx
+2020,Freshkills Park (South),0,Staten Island
+2020,Pelham Bay Park,0,Bronx
+2020,Soundview Park,0,Bronx
+2020,St. Michael's Cemetery,1,Queens
+2020,Sunnyside Yards (North),0,Queens
+2020,Astoria Park,0,Queens
+2020,Brooklyn Navy Yard,0,Brooklyn
+2020,Dyker Beach Park,0,Brooklyn
+2020,Highland Park-Cypress Hills Cemeteries (South),0,Brooklyn
+2020,Lincoln Terrace Park,0,Brooklyn
+2020,Flushing Meadows-Corona Park,0,Queens
+2020,Holy Cross Cemetery,0,Brooklyn
+2020,Mount Olivet & All Faiths Cemeteries,0,Queens
+2020,Calvary & Mount Zion Cemeteries,0,Queens
+2020,Fort Hamilton,0,Brooklyn
+2020,Highbridge Park,0,Manhattan
+2020,The Evergreens Cemetery,0,Brooklyn
+2020,Rockaway Community Park,0,Queens
+2020,St. John Cemetery,0,Queens
+2020,Alley Pond Park,0,Queens
+2020,Green-Wood Cemetery,0,Brooklyn
+2021,Allerton,163,Bronx
+2021,Annadale-Huguenot-Prince's Bay-Woodrow,76,Staten Island
+2021,Arden Heights-Rossville,92,Staten Island
+2021,Astoria (Central),194,Queens
+2021,Astoria (East)-Woodside (North),80,Queens
+2021,Astoria (North)-Ditmars-Steinway,233,Queens
+2021,Auburndale,42,Queens
+2021,Baisley Park,151,Queens
+2021,Barren Island-Floyd Bennett Field,0,Brooklyn
+2021,Bath Beach,34,Brooklyn
+2021,Bay Ridge,307,Brooklyn
+2021,Bay Terrace-Clearview,2,Queens
+2021,Bayside,16,Queens
+2021,Bedford Park,1133,Bronx
+2021,Bedford-Stuyvesant (East),4639,Brooklyn
+2021,Bedford-Stuyvesant (West),10258,Brooklyn
+2021,Bellerose,22,Queens
+2021,Belmont,2200,Bronx
+2021,Bensonhurst,67,Brooklyn
+2021,Borough Park,63,Brooklyn
+2021,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,23,Queens
+2021,Brighton Beach,283,Brooklyn
+2021,Bronx Park,7,Bronx
+2021,Brooklyn Heights,194,Brooklyn
+2021,Brownsville,91,Brooklyn
+2021,Bushwick (East),2354,Brooklyn
+2021,Bushwick (West),7262,Brooklyn
+2021,Cambria Heights,33,Queens
+2021,Canarsie,78,Brooklyn
+2021,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,334,Brooklyn
+2021,Castle Hill-Unionport,191,Bronx
+2021,Central Park,4,Manhattan
+2021,Chelsea-Hudson Yards,1049,Manhattan
+2021,Chinatown-Two Bridges,1720,Manhattan
+2021,Claremont Village-Claremont (East),347,Bronx
+2021,Clinton Hill,402,Brooklyn
+2021,Co-op City,16,Bronx
+2021,College Point,29,Queens
+2021,Concourse-Concourse Village,2957,Bronx
+2021,Coney Island-Sea Gate,82,Brooklyn
+2021,Corona,223,Queens
+2021,Crotona Park East,241,Bronx
+2021,Crown Heights (North),4003,Brooklyn
+2021,Crown Heights (South),230,Brooklyn
+2021,Cypress Hills,98,Brooklyn
+2021,Douglaston-Little Neck,11,Queens
+2021,Downtown Brooklyn-DUMBO-Boerum Hill,427,Brooklyn
+2021,Dyker Heights,59,Brooklyn
+2021,East Elmhurst,98,Queens
+2021,East Flatbush-Erasmus,243,Brooklyn
+2021,East Flatbush-Farragut,80,Brooklyn
+2021,East Flatbush-Remsen Village,51,Brooklyn
+2021,East Flatbush-Rugby,68,Brooklyn
+2021,East Flushing,55,Queens
+2021,East Harlem (North),785,Manhattan
+2021,East Harlem (South),913,Manhattan
+2021,East Midtown-Turtle Bay,106,Manhattan
+2021,East New York (North),132,Brooklyn
+2021,East New York-City Line,62,Brooklyn
+2021,East New York-New Lots,93,Brooklyn
+2021,East Village,4449,Manhattan
+2021,East Williamsburg,621,Brooklyn
+2021,Eastchester-Edenwald-Baychester,256,Bronx
+2021,Elmhurst,333,Queens
+2021,Far Rockaway-Bayswater,106,Queens
+2021,Financial District-Battery Park City,314,Manhattan
+2021,Flatbush,264,Brooklyn
+2021,Flatbush (West)-Ditmas Park-Parkville,93,Brooklyn
+2021,Flatlands,85,Brooklyn
+2021,Flushing-Willets Point,136,Queens
+2021,Fordham Heights,1202,Bronx
+2021,Forest Hills,128,Queens
+2021,Fort Greene,274,Brooklyn
+2021,Fresh Meadows-Utopia,26,Queens
+2021,Glen Oaks-Floral Park-New Hyde Park,24,Queens
+2021,Glendale,69,Queens
+2021,Gramercy,214,Manhattan
+2021,Grasmere-Arrochar-South Beach-Dongan Hills,144,Staten Island
+2021,Gravesend (East)-Homecrest,73,Brooklyn
+2021,Gravesend (South),25,Brooklyn
+2021,Gravesend (West),52,Brooklyn
+2021,Great Kills-Eltingville,176,Staten Island
+2021,Greenpoint,407,Brooklyn
+2021,Greenwich Village,197,Manhattan
+2021,Hamilton Heights-Sugar Hill,980,Manhattan
+2021,Harlem (North),1967,Manhattan
+2021,Harlem (South),1478,Manhattan
+2021,Hell's Kitchen,1352,Manhattan
+2021,Highbridge,1378,Bronx
+2021,Hollis,31,Queens
+2021,Howard Beach-Lindenwood,45,Queens
+2021,Hunts Point,755,Bronx
+2021,Hutchinson Metro Center,1,Bronx
+2021,Inwood,947,Manhattan
+2021,Inwood Hill Park,2,Manhattan
+2021,Jackson Heights,482,Queens
+2021,Jacob Riis Park-Fort Tilden-Breezy Point Tip,3,Queens
+2021,Jamaica,206,Queens
+2021,Jamaica Estates-Holliswood,27,Queens
+2021,Jamaica Hills-Briarwood,128,Queens
+2021,Kensington,97,Brooklyn
+2021,Kew Gardens,29,Queens
+2021,Kew Gardens Hills,49,Queens
+2021,Kingsbridge Heights-Van Cortlandt Village,866,Bronx
+2021,Kingsbridge-Marble Hill,135,Bronx
+2021,Laurelton,43,Queens
+2021,Long Island City-Hunters Point,61,Queens
+2021,Longwood,512,Bronx
+2021,Lower East Side,1563,Manhattan
+2021,Madison,36,Brooklyn
+2021,Manhattanville-West Harlem,303,Manhattan
+2021,Mapleton-Midwood (West),40,Brooklyn
+2021,Marine Park-Mill Basin-Bergen Beach,35,Brooklyn
+2021,Marine Park-Plumb Island,0,Brooklyn
+2021,Mariner's Harbor-Arlington-Graniteville,191,Staten Island
+2021,Maspeth,106,Queens
+2021,Melrose,397,Bronx
+2021,Middle Village,132,Queens
+2021,Midtown South-Flatiron-Union Square,129,Manhattan
+2021,Midtown-Times Square,100,Manhattan
+2021,Midwood,34,Brooklyn
+2021,Morningside Heights,339,Manhattan
+2021,Morris Park,91,Bronx
+2021,Morrisania,456,Bronx
+2021,Mott Haven-Port Morris,444,Bronx
+2021,Mount Eden-Claremont (West),1616,Bronx
+2021,Mount Hope,2087,Bronx
+2021,Murray Hill-Broadway Flushing,64,Queens
+2021,Murray Hill-Kips Bay,220,Manhattan
+2021,New Dorp-Midland Beach,130,Staten Island
+2021,New Springville-Willowbrook-Bulls Head-Travis,118,Staten Island
+2021,North Corona,118,Queens
+2021,Norwood,877,Bronx
+2021,Oakland Gardens-Hollis Hills,4,Queens
+2021,Oakwood-Richmondtown,99,Staten Island
+2021,Ocean Hill,303,Brooklyn
+2021,Old Astoria-Hallets Point,60,Queens
+2021,Ozone Park,87,Queens
+2021,Ozone Park (North),47,Queens
+2021,Park Slope,709,Brooklyn
+2021,Parkchester,50,Bronx
+2021,Pelham Bay-Country Club-City Island,138,Bronx
+2021,Pelham Gardens,100,Bronx
+2021,Pelham Parkway-Van Nest,437,Bronx
+2021,Pomonok-Electchester-Hillcrest,39,Queens
+2021,Port Richmond,226,Staten Island
+2021,Prospect Heights,583,Brooklyn
+2021,Prospect Lefferts Gardens-Wingate,141,Brooklyn
+2021,Prospect Park,0,Brooklyn
+2021,Queens Village,99,Queens
+2021,Queensboro Hill,54,Queens
+2021,Queensbridge-Ravenswood-Dutch Kills,130,Queens
+2021,Randall's Island,1,Manhattan
+2021,Rego Park,98,Queens
+2021,Richmond Hill,69,Queens
+2021,Ridgewood,1037,Queens
+2021,Rikers Island,0,Bronx
+2021,Riverdale-Spuyten Duyvil,126,Bronx
+2021,Rockaway Beach-Arverne-Edgemere,41,Queens
+2021,Rosebank-Shore Acres-Park Hill,88,Staten Island
+2021,Rosedale,17,Queens
+2021,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,138,Brooklyn
+2021,SoHo-Little Italy-Hudson Square,1074,Manhattan
+2021,Soundview-Bruckner-Bronx River,698,Bronx
+2021,Soundview-Clason Point,114,Bronx
+2021,South Jamaica,139,Queens
+2021,South Ozone Park,151,Queens
+2021,South Richmond Hill,51,Queens
+2021,South Williamsburg,126,Brooklyn
+2021,Spring Creek-Starrett City,2,Brooklyn
+2021,Springfield Gardens (North)-Rochdale Village,29,Queens
+2021,Springfield Gardens (South)-Brookville,41,Queens
+2021,St. Albans,135,Queens
+2021,St. George-New Brighton,298,Staten Island
+2021,Stuyvesant Town-Peter Cooper Village,9,Manhattan
+2021,Sunnyside,243,Queens
+2021,Sunnyside Yards (South),0,Queens
+2021,Sunset Park (Central),211,Brooklyn
+2021,Sunset Park (East)-Borough Park (West),41,Brooklyn
+2021,Sunset Park (West),415,Brooklyn
+2021,Throgs Neck-Schuylerville,107,Bronx
+2021,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,65,Staten Island
+2021,Tompkinsville-Stapleton-Clifton-Fox Hills,115,Staten Island
+2021,Tottenville-Charleston,38,Staten Island
+2021,Tremont,1437,Bronx
+2021,Tribeca-Civic Center,262,Manhattan
+2021,United Nations,0,Manhattan
+2021,University Heights (North)-Fordham,1296,Bronx
+2021,University Heights (South)-Morris Heights,926,Bronx
+2021,Upper East Side-Carnegie Hill,591,Manhattan
+2021,Upper East Side-Lenox Hill-Roosevelt Island,524,Manhattan
+2021,Upper East Side-Yorkville,1382,Manhattan
+2021,Upper West Side (Central),1860,Manhattan
+2021,Upper West Side-Lincoln Square,246,Manhattan
+2021,Upper West Side-Manhattan Valley,1352,Manhattan
+2021,Van Cortlandt Park,4,Bronx
+2021,Wakefield-Woodlawn,277,Bronx
+2021,Washington Heights (North),906,Manhattan
+2021,Washington Heights (South),920,Manhattan
+2021,West Farms,125,Bronx
+2021,West New Brighton-Silver Lake-Grymes Hill,415,Staten Island
+2021,West Village,2322,Manhattan
+2021,Westchester Square,48,Bronx
+2021,Westerleigh-Castleton Corners,136,Staten Island
+2021,Whitestone-Beechhurst,52,Queens
+2021,Williamsbridge-Olinville,415,Bronx
+2021,Williamsburg,632,Brooklyn
+2021,Windsor Terrace-South Slope,172,Brooklyn
+2021,Woodhaven,40,Queens
+2021,Woodlawn Cemetery,0,Bronx
+2021,Woodside,257,Queens
+2021,Yankee Stadium-Macombs Dam Park,12,Bronx
+2021,Freshkills Park (South),2,Staten Island
+2021,Pelham Bay Park,1,Bronx
+2021,Soundview Park,1,Bronx
+2021,St. Michael's Cemetery,0,Queens
+2021,Sunnyside Yards (North),1,Queens
+2021,Astoria Park,0,Queens
+2021,Brooklyn Navy Yard,1,Brooklyn
+2021,Dyker Beach Park,0,Brooklyn
+2021,Highland Park-Cypress Hills Cemeteries (South),1,Brooklyn
+2021,Lincoln Terrace Park,0,Brooklyn
+2021,Flushing Meadows-Corona Park,0,Queens
+2021,Holy Cross Cemetery,0,Brooklyn
+2021,Mount Olivet & All Faiths Cemeteries,0,Queens
+2021,Calvary & Mount Zion Cemeteries,0,Queens
+2021,Fort Hamilton,0,Brooklyn
+2021,Highbridge Park,0,Manhattan
+2021,The Evergreens Cemetery,0,Brooklyn
+2021,Rockaway Community Park,0,Queens
+2021,St. John Cemetery,0,Queens
+2021,Alley Pond Park,0,Queens
+2021,Green-Wood Cemetery,0,Brooklyn
+2022,Allerton,1322,Bronx
+2022,Annadale-Huguenot-Prince's Bay-Woodrow,95,Staten Island
+2022,Arden Heights-Rossville,75,Staten Island
+2022,Astoria (Central),642,Queens
+2022,Astoria (East)-Woodside (North),599,Queens
+2022,Astoria (North)-Ditmars-Steinway,413,Queens
+2022,Auburndale,71,Queens
+2022,Baisley Park,238,Queens
+2022,Barren Island-Floyd Bennett Field,0,Brooklyn
+2022,Bath Beach,89,Brooklyn
+2022,Bay Ridge,595,Brooklyn
+2022,Bay Terrace-Clearview,21,Queens
+2022,Bayside,80,Queens
+2022,Bedford Park,2221,Bronx
+2022,Bedford-Stuyvesant (East),15216,Brooklyn
+2022,Bedford-Stuyvesant (West),18452,Brooklyn
+2022,Bellerose,67,Queens
+2022,Belmont,4182,Bronx
+2022,Bensonhurst,209,Brooklyn
+2022,Borough Park,177,Brooklyn
+2022,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,30,Queens
+2022,Brighton Beach,675,Brooklyn
+2022,Bronx Park,19,Bronx
+2022,Brooklyn Heights,252,Brooklyn
+2022,Brownsville,252,Brooklyn
+2022,Bushwick (East),10410,Brooklyn
+2022,Bushwick (West),12220,Brooklyn
+2022,Cambria Heights,69,Queens
+2022,Canarsie,252,Brooklyn
+2022,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,604,Brooklyn
+2022,Castle Hill-Unionport,669,Bronx
+2022,Central Park,3,Manhattan
+2022,Chelsea-Hudson Yards,1616,Manhattan
+2022,Chinatown-Two Bridges,2880,Manhattan
+2022,Claremont Village-Claremont (East),854,Bronx
+2022,Clinton Hill,574,Brooklyn
+2022,Co-op City,14,Bronx
+2022,College Point,95,Queens
+2022,Concourse-Concourse Village,4988,Bronx
+2022,Coney Island-Sea Gate,204,Brooklyn
+2022,Corona,314,Queens
+2022,Crotona Park East,2287,Bronx
+2022,Crown Heights (North),7099,Brooklyn
+2022,Crown Heights (South),3769,Brooklyn
+2022,Cypress Hills,232,Brooklyn
+2022,Douglaston-Little Neck,24,Queens
+2022,Downtown Brooklyn-DUMBO-Boerum Hill,433,Brooklyn
+2022,Dyker Heights,183,Brooklyn
+2022,East Elmhurst,286,Queens
+2022,East Flatbush-Erasmus,508,Brooklyn
+2022,East Flatbush-Farragut,124,Brooklyn
+2022,East Flatbush-Remsen Village,158,Brooklyn
+2022,East Flatbush-Rugby,218,Brooklyn
+2022,East Flushing,66,Queens
+2022,East Harlem (North),4035,Manhattan
+2022,East Harlem (South),2564,Manhattan
+2022,East Midtown-Turtle Bay,408,Manhattan
+2022,East New York (North),398,Brooklyn
+2022,East New York-City Line,161,Brooklyn
+2022,East New York-New Lots,217,Brooklyn
+2022,East Village,7416,Manhattan
+2022,East Williamsburg,1119,Brooklyn
+2022,Eastchester-Edenwald-Baychester,697,Bronx
+2022,Elmhurst,636,Queens
+2022,Far Rockaway-Bayswater,131,Queens
+2022,Financial District-Battery Park City,198,Manhattan
+2022,Flatbush,774,Brooklyn
+2022,Flatbush (West)-Ditmas Park-Parkville,353,Brooklyn
+2022,Flatlands,187,Brooklyn
+2022,Flushing-Willets Point,521,Queens
+2022,Fordham Heights,2136,Bronx
+2022,Forest Hills,334,Queens
+2022,Fort Greene,325,Brooklyn
+2022,Fresh Meadows-Utopia,49,Queens
+2022,Glen Oaks-Floral Park-New Hyde Park,57,Queens
+2022,Glendale,205,Queens
+2022,Gramercy,333,Manhattan
+2022,Grasmere-Arrochar-South Beach-Dongan Hills,418,Staten Island
+2022,Gravesend (East)-Homecrest,107,Brooklyn
+2022,Gravesend (South),138,Brooklyn
+2022,Gravesend (West),115,Brooklyn
+2022,Great Kills-Eltingville,237,Staten Island
+2022,Greenpoint,541,Brooklyn
+2022,Greenwich Village,1613,Manhattan
+2022,Hamilton Heights-Sugar Hill,2922,Manhattan
+2022,Harlem (North),4900,Manhattan
+2022,Harlem (South),5008,Manhattan
+2022,Hell's Kitchen,2493,Manhattan
+2022,Highbridge,2610,Bronx
+2022,Hollis,61,Queens
+2022,Howard Beach-Lindenwood,80,Queens
+2022,Hunts Point,818,Bronx
+2022,Hutchinson Metro Center,0,Bronx
+2022,Inwood,1796,Manhattan
+2022,Inwood Hill Park,4,Manhattan
+2022,Jackson Heights,1174,Queens
+2022,Jacob Riis Park-Fort Tilden-Breezy Point Tip,1,Queens
+2022,Jamaica,265,Queens
+2022,Jamaica Estates-Holliswood,97,Queens
+2022,Jamaica Hills-Briarwood,361,Queens
+2022,Kensington,313,Brooklyn
+2022,Kew Gardens,56,Queens
+2022,Kew Gardens Hills,109,Queens
+2022,Kingsbridge Heights-Van Cortlandt Village,1029,Bronx
+2022,Kingsbridge-Marble Hill,360,Bronx
+2022,Laurelton,69,Queens
+2022,Long Island City-Hunters Point,177,Queens
+2022,Longwood,676,Bronx
+2022,Lower East Side,2719,Manhattan
+2022,Madison,90,Brooklyn
+2022,Manhattanville-West Harlem,765,Manhattan
+2022,Mapleton-Midwood (West),154,Brooklyn
+2022,Marine Park-Mill Basin-Bergen Beach,115,Brooklyn
+2022,Marine Park-Plumb Island,0,Brooklyn
+2022,Mariner's Harbor-Arlington-Graniteville,157,Staten Island
+2022,Maspeth,279,Queens
+2022,Melrose,773,Bronx
+2022,Middle Village,201,Queens
+2022,Midtown South-Flatiron-Union Square,194,Manhattan
+2022,Midtown-Times Square,126,Manhattan
+2022,Midwood,125,Brooklyn
+2022,Morningside Heights,1001,Manhattan
+2022,Morris Park,1172,Bronx
+2022,Morrisania,2487,Bronx
+2022,Mott Haven-Port Morris,1499,Bronx
+2022,Mount Eden-Claremont (West),2996,Bronx
+2022,Mount Hope,3787,Bronx
+2022,Murray Hill-Broadway Flushing,136,Queens
+2022,Murray Hill-Kips Bay,280,Manhattan
+2022,New Dorp-Midland Beach,114,Staten Island
+2022,New Springville-Willowbrook-Bulls Head-Travis,88,Staten Island
+2022,North Corona,387,Queens
+2022,Norwood,1878,Bronx
+2022,Oakland Gardens-Hollis Hills,19,Queens
+2022,Oakwood-Richmondtown,79,Staten Island
+2022,Ocean Hill,683,Brooklyn
+2022,Old Astoria-Hallets Point,173,Queens
+2022,Ozone Park,136,Queens
+2022,Ozone Park (North),107,Queens
+2022,Park Slope,1023,Brooklyn
+2022,Parkchester,50,Bronx
+2022,Pelham Bay-Country Club-City Island,145,Bronx
+2022,Pelham Gardens,1372,Bronx
+2022,Pelham Parkway-Van Nest,1494,Bronx
+2022,Pomonok-Electchester-Hillcrest,71,Queens
+2022,Port Richmond,187,Staten Island
+2022,Prospect Heights,496,Brooklyn
+2022,Prospect Lefferts Gardens-Wingate,468,Brooklyn
+2022,Prospect Park,2,Brooklyn
+2022,Queens Village,167,Queens
+2022,Queensboro Hill,72,Queens
+2022,Queensbridge-Ravenswood-Dutch Kills,292,Queens
+2022,Randall's Island,4,Manhattan
+2022,Rego Park,100,Queens
+2022,Richmond Hill,154,Queens
+2022,Ridgewood,2291,Queens
+2022,Rikers Island,0,Bronx
+2022,Riverdale-Spuyten Duyvil,219,Bronx
+2022,Rockaway Beach-Arverne-Edgemere,67,Queens
+2022,Rosebank-Shore Acres-Park Hill,105,Staten Island
+2022,Rosedale,40,Queens
+2022,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,261,Brooklyn
+2022,SoHo-Little Italy-Hudson Square,2304,Manhattan
+2022,Soundview-Bruckner-Bronx River,3050,Bronx
+2022,Soundview-Clason Point,149,Bronx
+2022,South Jamaica,269,Queens
+2022,South Ozone Park,316,Queens
+2022,South Richmond Hill,71,Queens
+2022,South Williamsburg,138,Brooklyn
+2022,Spring Creek-Starrett City,20,Brooklyn
+2022,Springfield Gardens (North)-Rochdale Village,45,Queens
+2022,Springfield Gardens (South)-Brookville,42,Queens
+2022,St. Albans,249,Queens
+2022,St. George-New Brighton,284,Staten Island
+2022,Stuyvesant Town-Peter Cooper Village,18,Manhattan
+2022,Sunnyside,733,Queens
+2022,Sunnyside Yards (South),1,Queens
+2022,Sunset Park (Central),309,Brooklyn
+2022,Sunset Park (East)-Borough Park (West),185,Brooklyn
+2022,Sunset Park (West),646,Brooklyn
+2022,Throgs Neck-Schuylerville,170,Bronx
+2022,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,58,Staten Island
+2022,Tompkinsville-Stapleton-Clifton-Fox Hills,165,Staten Island
+2022,Tottenville-Charleston,39,Staten Island
+2022,Tremont,2773,Bronx
+2022,Tribeca-Civic Center,243,Manhattan
+2022,United Nations,0,Manhattan
+2022,University Heights (North)-Fordham,2355,Bronx
+2022,University Heights (South)-Morris Heights,1748,Bronx
+2022,Upper East Side-Carnegie Hill,822,Manhattan
+2022,Upper East Side-Lenox Hill-Roosevelt Island,710,Manhattan
+2022,Upper East Side-Yorkville,3410,Manhattan
+2022,Upper West Side (Central),6148,Manhattan
+2022,Upper West Side-Lincoln Square,1375,Manhattan
+2022,Upper West Side-Manhattan Valley,2870,Manhattan
+2022,Van Cortlandt Park,11,Bronx
+2022,Wakefield-Woodlawn,2808,Bronx
+2022,Washington Heights (North),2786,Manhattan
+2022,Washington Heights (South),2871,Manhattan
+2022,West Farms,278,Bronx
+2022,West New Brighton-Silver Lake-Grymes Hill,216,Staten Island
+2022,West Village,3447,Manhattan
+2022,Westchester Square,54,Bronx
+2022,Westerleigh-Castleton Corners,96,Staten Island
+2022,Whitestone-Beechhurst,111,Queens
+2022,Williamsbridge-Olinville,4953,Bronx
+2022,Williamsburg,1161,Brooklyn
+2022,Windsor Terrace-South Slope,167,Brooklyn
+2022,Woodhaven,94,Queens
+2022,Woodlawn Cemetery,0,Bronx
+2022,Woodside,604,Queens
+2022,Yankee Stadium-Macombs Dam Park,31,Bronx
+2022,Freshkills Park (South),1,Staten Island
+2022,Pelham Bay Park,0,Bronx
+2022,Soundview Park,0,Bronx
+2022,St. Michael's Cemetery,0,Queens
+2022,Sunnyside Yards (North),2,Queens
+2022,Astoria Park,1,Queens
+2022,Brooklyn Navy Yard,2,Brooklyn
+2022,Dyker Beach Park,3,Brooklyn
+2022,Highland Park-Cypress Hills Cemeteries (South),3,Brooklyn
+2022,Lincoln Terrace Park,2,Brooklyn
+2022,Flushing Meadows-Corona Park,3,Queens
+2022,Holy Cross Cemetery,2,Brooklyn
+2022,Mount Olivet & All Faiths Cemeteries,1,Queens
+2022,Calvary & Mount Zion Cemeteries,1,Queens
+2022,Fort Hamilton,2,Brooklyn
+2022,Highbridge Park,1,Manhattan
+2022,The Evergreens Cemetery,2,Brooklyn
+2022,Rockaway Community Park,1,Queens
+2022,St. John Cemetery,0,Queens
+2022,Alley Pond Park,0,Queens
+2022,Green-Wood Cemetery,0,Brooklyn
+2023,Allerton,777,Bronx
+2023,Annadale-Huguenot-Prince's Bay-Woodrow,184,Staten Island
+2023,Arden Heights-Rossville,66,Staten Island
+2023,Astoria (Central),717,Queens
+2023,Astoria (East)-Woodside (North),686,Queens
+2023,Astoria (North)-Ditmars-Steinway,602,Queens
+2023,Auburndale,124,Queens
+2023,Baisley Park,173,Queens
+2023,Barren Island-Floyd Bennett Field,0,Brooklyn
+2023,Bath Beach,61,Brooklyn
+2023,Bay Ridge,636,Brooklyn
+2023,Bay Terrace-Clearview,27,Queens
+2023,Bayside,94,Queens
+2023,Bedford Park,2397,Bronx
+2023,Bedford-Stuyvesant (East),8533,Brooklyn
+2023,Bedford-Stuyvesant (West),16555,Brooklyn
+2023,Bellerose,36,Queens
+2023,Belmont,4506,Bronx
+2023,Bensonhurst,207,Brooklyn
+2023,Borough Park,225,Brooklyn
+2023,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,80,Queens
+2023,Brighton Beach,348,Brooklyn
+2023,Bronx Park,2,Bronx
+2023,Brooklyn Heights,832,Brooklyn
+2023,Brownsville,307,Brooklyn
+2023,Bushwick (East),5031,Brooklyn
+2023,Bushwick (West),13032,Brooklyn
+2023,Cambria Heights,48,Queens
+2023,Canarsie,345,Brooklyn
+2023,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,561,Brooklyn
+2023,Castle Hill-Unionport,205,Bronx
+2023,Central Park,7,Manhattan
+2023,Chelsea-Hudson Yards,1200,Manhattan
+2023,Chinatown-Two Bridges,2944,Manhattan
+2023,Claremont Village-Claremont (East),456,Bronx
+2023,Clinton Hill,344,Brooklyn
+2023,Co-op City,18,Bronx
+2023,College Point,77,Queens
+2023,Concourse-Concourse Village,5673,Bronx
+2023,Coney Island-Sea Gate,153,Brooklyn
+2023,Corona,398,Queens
+2023,Crotona Park East,447,Bronx
+2023,Crown Heights (North),9091,Brooklyn
+2023,Crown Heights (South),548,Brooklyn
+2023,Cypress Hills,312,Brooklyn
+2023,Douglaston-Little Neck,21,Queens
+2023,Downtown Brooklyn-DUMBO-Boerum Hill,481,Brooklyn
+2023,Dyker Heights,115,Brooklyn
+2023,East Elmhurst,331,Queens
+2023,East Flatbush-Erasmus,761,Brooklyn
+2023,East Flatbush-Farragut,163,Brooklyn
+2023,East Flatbush-Remsen Village,165,Brooklyn
+2023,East Flatbush-Rugby,223,Brooklyn
+2023,East Flushing,68,Queens
+2023,East Harlem (North),6915,Manhattan
+2023,East Harlem (South),4103,Manhattan
+2023,East Midtown-Turtle Bay,455,Manhattan
+2023,East New York (North),383,Brooklyn
+2023,East New York-City Line,299,Brooklyn
+2023,East New York-New Lots,313,Brooklyn
+2023,East Village,7153,Manhattan
+2023,East Williamsburg,958,Brooklyn
+2023,Eastchester-Edenwald-Baychester,314,Bronx
+2023,Elmhurst,821,Queens
+2023,Far Rockaway-Bayswater,167,Queens
+2023,Financial District-Battery Park City,298,Manhattan
+2023,Flatbush,799,Brooklyn
+2023,Flatbush (West)-Ditmas Park-Parkville,383,Brooklyn
+2023,Flatlands,221,Brooklyn
+2023,Flushing-Willets Point,616,Queens
+2023,Fordham Heights,2265,Bronx
+2023,Forest Hills,331,Queens
+2023,Fort Greene,253,Brooklyn
+2023,Fresh Meadows-Utopia,33,Queens
+2023,Glen Oaks-Floral Park-New Hyde Park,22,Queens
+2023,Glendale,290,Queens
+2023,Gramercy,462,Manhattan
+2023,Grasmere-Arrochar-South Beach-Dongan Hills,134,Staten Island
+2023,Gravesend (East)-Homecrest,84,Brooklyn
+2023,Gravesend (South),49,Brooklyn
+2023,Gravesend (West),103,Brooklyn
+2023,Great Kills-Eltingville,786,Staten Island
+2023,Greenpoint,871,Brooklyn
+2023,Greenwich Village,1615,Manhattan
+2023,Hamilton Heights-Sugar Hill,5559,Manhattan
+2023,Harlem (North),8261,Manhattan
+2023,Harlem (South),6836,Manhattan
+2023,Hell's Kitchen,2371,Manhattan
+2023,Highbridge,2845,Bronx
+2023,Hollis,65,Queens
+2023,Howard Beach-Lindenwood,70,Queens
+2023,Hunts Point,1553,Bronx
+2023,Hutchinson Metro Center,69,Bronx
+2023,Inwood,1119,Manhattan
+2023,Inwood Hill Park,4,Manhattan
+2023,Jackson Heights,1410,Queens
+2023,Jacob Riis Park-Fort Tilden-Breezy Point Tip,0,Queens
+2023,Jamaica,300,Queens
+2023,Jamaica Estates-Holliswood,60,Queens
+2023,Jamaica Hills-Briarwood,191,Queens
+2023,Kensington,292,Brooklyn
+2023,Kew Gardens,48,Queens
+2023,Kew Gardens Hills,64,Queens
+2023,Kingsbridge Heights-Van Cortlandt Village,764,Bronx
+2023,Kingsbridge-Marble Hill,400,Bronx
+2023,Laurelton,66,Queens
+2023,Long Island City-Hunters Point,121,Queens
+2023,Longwood,1237,Bronx
+2023,Lower East Side,2666,Manhattan
+2023,Madison,90,Brooklyn
+2023,Manhattanville-West Harlem,1466,Manhattan
+2023,Mapleton-Midwood (West),111,Brooklyn
+2023,Marine Park-Mill Basin-Bergen Beach,82,Brooklyn
+2023,Marine Park-Plumb Island,0,Brooklyn
+2023,Mariner's Harbor-Arlington-Graniteville,141,Staten Island
+2023,Maspeth,321,Queens
+2023,Melrose,2738,Bronx
+2023,Middle Village,152,Queens
+2023,Midtown South-Flatiron-Union Square,287,Manhattan
+2023,Midtown-Times Square,194,Manhattan
+2023,Midwood,90,Brooklyn
+2023,Morningside Heights,1537,Manhattan
+2023,Morris Park,2874,Bronx
+2023,Morrisania,623,Bronx
+2023,Mott Haven-Port Morris,3517,Bronx
+2023,Mount Eden-Claremont (West),3168,Bronx
+2023,Mount Hope,4047,Bronx
+2023,Murray Hill-Broadway Flushing,160,Queens
+2023,Murray Hill-Kips Bay,383,Manhattan
+2023,New Dorp-Midland Beach,99,Staten Island
+2023,New Springville-Willowbrook-Bulls Head-Travis,84,Staten Island
+2023,North Corona,651,Queens
+2023,Norwood,2445,Bronx
+2023,Oakland Gardens-Hollis Hills,30,Queens
+2023,Oakwood-Richmondtown,44,Staten Island
+2023,Ocean Hill,581,Brooklyn
+2023,Old Astoria-Hallets Point,125,Queens
+2023,Ozone Park,94,Queens
+2023,Ozone Park (North),77,Queens
+2023,Park Slope,475,Brooklyn
+2023,Parkchester,57,Bronx
+2023,Pelham Bay-Country Club-City Island,529,Bronx
+2023,Pelham Gardens,3879,Bronx
+2023,Pelham Parkway-Van Nest,1520,Bronx
+2023,Pomonok-Electchester-Hillcrest,57,Queens
+2023,Port Richmond,101,Staten Island
+2023,Prospect Heights,1845,Brooklyn
+2023,Prospect Lefferts Gardens-Wingate,507,Brooklyn
+2023,Prospect Park,3,Brooklyn
+2023,Queens Village,127,Queens
+2023,Queensboro Hill,32,Queens
+2023,Queensbridge-Ravenswood-Dutch Kills,258,Queens
+2023,Randall's Island,14,Manhattan
+2023,Rego Park,146,Queens
+2023,Richmond Hill,124,Queens
+2023,Ridgewood,2930,Queens
+2023,Rikers Island,0,Bronx
+2023,Riverdale-Spuyten Duyvil,130,Bronx
+2023,Rockaway Beach-Arverne-Edgemere,64,Queens
+2023,Rosebank-Shore Acres-Park Hill,98,Staten Island
+2023,Rosedale,33,Queens
+2023,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,255,Brooklyn
+2023,SoHo-Little Italy-Hudson Square,2287,Manhattan
+2023,Soundview-Bruckner-Bronx River,2837,Bronx
+2023,Soundview-Clason Point,151,Bronx
+2023,South Jamaica,178,Queens
+2023,South Ozone Park,248,Queens
+2023,South Richmond Hill,63,Queens
+2023,South Williamsburg,139,Brooklyn
+2023,Spring Creek-Starrett City,38,Brooklyn
+2023,Springfield Gardens (North)-Rochdale Village,53,Queens
+2023,Springfield Gardens (South)-Brookville,59,Queens
+2023,St. Albans,191,Queens
+2023,St. George-New Brighton,391,Staten Island
+2023,Stuyvesant Town-Peter Cooper Village,6,Manhattan
+2023,Sunnyside,841,Queens
+2023,Sunnyside Yards (South),1,Queens
+2023,Sunset Park (Central),381,Brooklyn
+2023,Sunset Park (East)-Borough Park (West),397,Brooklyn
+2023,Sunset Park (West),370,Brooklyn
+2023,Throgs Neck-Schuylerville,144,Bronx
+2023,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,47,Staten Island
+2023,Tompkinsville-Stapleton-Clifton-Fox Hills,303,Staten Island
+2023,Tottenville-Charleston,40,Staten Island
+2023,Tremont,2792,Bronx
+2023,Tribeca-Civic Center,348,Manhattan
+2023,United Nations,0,Manhattan
+2023,University Heights (North)-Fordham,2845,Bronx
+2023,University Heights (South)-Morris Heights,2705,Bronx
+2023,Upper East Side-Carnegie Hill,1105,Manhattan
+2023,Upper East Side-Lenox Hill-Roosevelt Island,1010,Manhattan
+2023,Upper East Side-Yorkville,2464,Manhattan
+2023,Upper West Side (Central),4895,Manhattan
+2023,Upper West Side-Lincoln Square,1551,Manhattan
+2023,Upper West Side-Manhattan Valley,2722,Manhattan
+2023,Van Cortlandt Park,2,Bronx
+2023,Wakefield-Woodlawn,1707,Bronx
+2023,Washington Heights (North),1670,Manhattan
+2023,Washington Heights (South),2185,Manhattan
+2023,West Farms,233,Bronx
+2023,West New Brighton-Silver Lake-Grymes Hill,183,Staten Island
+2023,West Village,3186,Manhattan
+2023,Westchester Square,90,Bronx
+2023,Westerleigh-Castleton Corners,111,Staten Island
+2023,Whitestone-Beechhurst,116,Queens
+2023,Williamsbridge-Olinville,576,Bronx
+2023,Williamsburg,849,Brooklyn
+2023,Windsor Terrace-South Slope,145,Brooklyn
+2023,Woodhaven,73,Queens
+2023,Woodlawn Cemetery,0,Bronx
+2023,Woodside,578,Queens
+2023,Yankee Stadium-Macombs Dam Park,33,Bronx
+2023,Freshkills Park (South),3,Staten Island
+2023,Pelham Bay Park,0,Bronx
+2023,Soundview Park,0,Bronx
+2023,St. Michael's Cemetery,0,Queens
+2023,Sunnyside Yards (North),2,Queens
+2023,Astoria Park,2,Queens
+2023,Brooklyn Navy Yard,1,Brooklyn
+2023,Dyker Beach Park,1,Brooklyn
+2023,Highland Park-Cypress Hills Cemeteries (South),2,Brooklyn
+2023,Lincoln Terrace Park,3,Brooklyn
+2023,Flushing Meadows-Corona Park,0,Queens
+2023,Holy Cross Cemetery,0,Brooklyn
+2023,Mount Olivet & All Faiths Cemeteries,0,Queens
+2023,Calvary & Mount Zion Cemeteries,0,Queens
+2023,Fort Hamilton,0,Brooklyn
+2023,Highbridge Park,5,Manhattan
+2023,The Evergreens Cemetery,0,Brooklyn
+2023,Rockaway Community Park,0,Queens
+2023,St. John Cemetery,1,Queens
+2023,Alley Pond Park,0,Queens
+2023,Green-Wood Cemetery,0,Brooklyn
+2024,Allerton,538,Bronx
+2024,Annadale-Huguenot-Prince's Bay-Woodrow,85,Staten Island
+2024,Arden Heights-Rossville,66,Staten Island
+2024,Astoria (Central),662,Queens
+2024,Astoria (East)-Woodside (North),652,Queens
+2024,Astoria (North)-Ditmars-Steinway,422,Queens
+2024,Auburndale,135,Queens
+2024,Baisley Park,112,Queens
+2024,Barren Island-Floyd Bennett Field,0,Brooklyn
+2024,Bath Beach,91,Brooklyn
+2024,Bay Ridge,745,Brooklyn
+2024,Bay Terrace-Clearview,29,Queens
+2024,Bayside,59,Queens
+2024,Bedford Park,2381,Bronx
+2024,Bedford-Stuyvesant (East),16116,Brooklyn
+2024,Bedford-Stuyvesant (West),19139,Brooklyn
+2024,Bellerose,41,Queens
+2024,Belmont,4364,Bronx
+2024,Bensonhurst,291,Brooklyn
+2024,Borough Park,171,Brooklyn
+2024,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,96,Queens
+2024,Brighton Beach,400,Brooklyn
+2024,Bronx Park,3,Bronx
+2024,Brooklyn Heights,592,Brooklyn
+2024,Brownsville,307,Brooklyn
+2024,Bushwick (East),9415,Brooklyn
+2024,Bushwick (West),13071,Brooklyn
+2024,Cambria Heights,41,Queens
+2024,Canarsie,209,Brooklyn
+2024,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,720,Brooklyn
+2024,Castle Hill-Unionport,192,Bronx
+2024,Central Park,6,Manhattan
+2024,Chelsea-Hudson Yards,2788,Manhattan
+2024,Chinatown-Two Bridges,2798,Manhattan
+2024,Claremont Village-Claremont (East),343,Bronx
+2024,Clinton Hill,565,Brooklyn
+2024,Co-op City,5,Bronx
+2024,College Point,47,Queens
+2024,Concourse-Concourse Village,5007,Bronx
+2024,Coney Island-Sea Gate,148,Brooklyn
+2024,Corona,252,Queens
+2024,Crotona Park East,431,Bronx
+2024,Crown Heights (North),7879,Brooklyn
+2024,Crown Heights (South),3790,Brooklyn
+2024,Cypress Hills,239,Brooklyn
+2024,Douglaston-Little Neck,37,Queens
+2024,Downtown Brooklyn-DUMBO-Boerum Hill,554,Brooklyn
+2024,Dyker Heights,170,Brooklyn
+2024,East Elmhurst,191,Queens
+2024,East Flatbush-Erasmus,567,Brooklyn
+2024,East Flatbush-Farragut,151,Brooklyn
+2024,East Flatbush-Remsen Village,253,Brooklyn
+2024,East Flatbush-Rugby,318,Brooklyn
+2024,East Flushing,52,Queens
+2024,East Harlem (North),6131,Manhattan
+2024,East Harlem (South),3463,Manhattan
+2024,East Midtown-Turtle Bay,386,Manhattan
+2024,East New York (North),328,Brooklyn
+2024,East New York-City Line,251,Brooklyn
+2024,East New York-New Lots,269,Brooklyn
+2024,East Village,6646,Manhattan
+2024,East Williamsburg,1650,Brooklyn
+2024,Eastchester-Edenwald-Baychester,304,Bronx
+2024,Elmhurst,600,Queens
+2024,Far Rockaway-Bayswater,170,Queens
+2024,Financial District-Battery Park City,113,Manhattan
+2024,Flatbush,1124,Brooklyn
+2024,Flatbush (West)-Ditmas Park-Parkville,508,Brooklyn
+2024,Flatlands,226,Brooklyn
+2024,Flushing-Willets Point,281,Queens
+2024,Fordham Heights,2436,Bronx
+2024,Forest Hills,387,Queens
+2024,Fort Greene,395,Brooklyn
+2024,Fresh Meadows-Utopia,19,Queens
+2024,Glen Oaks-Floral Park-New Hyde Park,44,Queens
+2024,Glendale,706,Queens
+2024,Gramercy,350,Manhattan
+2024,Grasmere-Arrochar-South Beach-Dongan Hills,107,Staten Island
+2024,Gravesend (East)-Homecrest,162,Brooklyn
+2024,Gravesend (South),82,Brooklyn
+2024,Gravesend (West),208,Brooklyn
+2024,Great Kills-Eltingville,226,Staten Island
+2024,Greenpoint,1121,Brooklyn
+2024,Greenwich Village,1604,Manhattan
+2024,Hamilton Heights-Sugar Hill,4606,Manhattan
+2024,Harlem (North),7492,Manhattan
+2024,Harlem (South),6097,Manhattan
+2024,Hell's Kitchen,2167,Manhattan
+2024,Highbridge,2786,Bronx
+2024,Hollis,78,Queens
+2024,Howard Beach-Lindenwood,64,Queens
+2024,Hunts Point,734,Bronx
+2024,Hutchinson Metro Center,0,Bronx
+2024,Inwood,1118,Manhattan
+2024,Inwood Hill Park,6,Manhattan
+2024,Jackson Heights,892,Queens
+2024,Jacob Riis Park-Fort Tilden-Breezy Point Tip,0,Queens
+2024,Jamaica,348,Queens
+2024,Jamaica Estates-Holliswood,49,Queens
+2024,Jamaica Hills-Briarwood,203,Queens
+2024,Kensington,331,Brooklyn
+2024,Kew Gardens,17,Queens
+2024,Kew Gardens Hills,155,Queens
+2024,Kingsbridge Heights-Van Cortlandt Village,796,Bronx
+2024,Kingsbridge-Marble Hill,134,Bronx
+2024,Laurelton,51,Queens
+2024,Long Island City-Hunters Point,159,Queens
+2024,Longwood,562,Bronx
+2024,Lower East Side,2522,Manhattan
+2024,Madison,114,Brooklyn
+2024,Manhattanville-West Harlem,1317,Manhattan
+2024,Mapleton-Midwood (West),105,Brooklyn
+2024,Marine Park-Mill Basin-Bergen Beach,176,Brooklyn
+2024,Marine Park-Plumb Island,0,Brooklyn
+2024,Mariner's Harbor-Arlington-Graniteville,111,Staten Island
+2024,Maspeth,323,Queens
+2024,Melrose,826,Bronx
+2024,Middle Village,156,Queens
+2024,Midtown South-Flatiron-Union Square,107,Manhattan
+2024,Midtown-Times Square,107,Manhattan
+2024,Midwood,181,Brooklyn
+2024,Morningside Heights,1281,Manhattan
+2024,Morris Park,144,Bronx
+2024,Morrisania,451,Bronx
+2024,Mott Haven-Port Morris,561,Bronx
+2024,Mount Eden-Claremont (West),3416,Bronx
+2024,Mount Hope,3785,Bronx
+2024,Murray Hill-Broadway Flushing,230,Queens
+2024,Murray Hill-Kips Bay,255,Manhattan
+2024,New Dorp-Midland Beach,106,Staten Island
+2024,New Springville-Willowbrook-Bulls Head-Travis,90,Staten Island
+2024,North Corona,373,Queens
+2024,Norwood,2350,Bronx
+2024,Oakland Gardens-Hollis Hills,13,Queens
+2024,Oakwood-Richmondtown,49,Staten Island
+2024,Ocean Hill,1012,Brooklyn
+2024,Old Astoria-Hallets Point,145,Queens
+2024,Ozone Park,97,Queens
+2024,Ozone Park (North),101,Queens
+2024,Park Slope,1010,Brooklyn
+2024,Parkchester,98,Bronx
+2024,Pelham Bay-Country Club-City Island,119,Bronx
+2024,Pelham Gardens,64,Bronx
+2024,Pelham Parkway-Van Nest,548,Bronx
+2024,Pomonok-Electchester-Hillcrest,53,Queens
+2024,Port Richmond,101,Staten Island
+2024,Prospect Heights,1569,Brooklyn
+2024,Prospect Lefferts Gardens-Wingate,544,Brooklyn
+2024,Prospect Park,2,Brooklyn
+2024,Queens Village,93,Queens
+2024,Queensboro Hill,36,Queens
+2024,Queensbridge-Ravenswood-Dutch Kills,232,Queens
+2024,Randall's Island,15,Manhattan
+2024,Rego Park,165,Queens
+2024,Richmond Hill,96,Queens
+2024,Ridgewood,4631,Queens
+2024,Rikers Island,0,Bronx
+2024,Riverdale-Spuyten Duyvil,134,Bronx
+2024,Rockaway Beach-Arverne-Edgemere,78,Queens
+2024,Rosebank-Shore Acres-Park Hill,72,Staten Island
+2024,Rosedale,29,Queens
+2024,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,340,Brooklyn
+2024,SoHo-Little Italy-Hudson Square,2049,Manhattan
+2024,Soundview-Bruckner-Bronx River,2504,Bronx
+2024,Soundview-Clason Point,132,Bronx
+2024,South Jamaica,190,Queens
+2024,South Ozone Park,218,Queens
+2024,South Richmond Hill,95,Queens
+2024,South Williamsburg,267,Brooklyn
+2024,Spring Creek-Starrett City,32,Brooklyn
+2024,Springfield Gardens (North)-Rochdale Village,53,Queens
+2024,Springfield Gardens (South)-Brookville,48,Queens
+2024,St. Albans,175,Queens
+2024,St. George-New Brighton,184,Staten Island
+2024,Stuyvesant Town-Peter Cooper Village,8,Manhattan
+2024,Sunnyside,716,Queens
+2024,Sunnyside Yards (South),3,Queens
+2024,Sunset Park (Central),452,Brooklyn
+2024,Sunset Park (East)-Borough Park (West),150,Brooklyn
+2024,Sunset Park (West),963,Brooklyn
+2024,Throgs Neck-Schuylerville,113,Bronx
+2024,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,51,Staten Island
+2024,Tompkinsville-Stapleton-Clifton-Fox Hills,112,Staten Island
+2024,Tottenville-Charleston,33,Staten Island
+2024,Tremont,2674,Bronx
+2024,Tribeca-Civic Center,218,Manhattan
+2024,United Nations,0,Manhattan
+2024,University Heights (North)-Fordham,2629,Bronx
+2024,University Heights (South)-Morris Heights,2846,Bronx
+2024,Upper East Side-Carnegie Hill,787,Manhattan
+2024,Upper East Side-Lenox Hill-Roosevelt Island,559,Manhattan
+2024,Upper East Side-Yorkville,2234,Manhattan
+2024,Upper West Side (Central),4167,Manhattan
+2024,Upper West Side-Lincoln Square,1577,Manhattan
+2024,Upper West Side-Manhattan Valley,1904,Manhattan
+2024,Van Cortlandt Park,0,Bronx
+2024,Wakefield-Woodlawn,267,Bronx
+2024,Washington Heights (North),2152,Manhattan
+2024,Washington Heights (South),2425,Manhattan
+2024,West Farms,218,Bronx
+2024,West New Brighton-Silver Lake-Grymes Hill,153,Staten Island
+2024,West Village,2785,Manhattan
+2024,Westchester Square,61,Bronx
+2024,Westerleigh-Castleton Corners,111,Staten Island
+2024,Whitestone-Beechhurst,70,Queens
+2024,Williamsbridge-Olinville,331,Bronx
+2024,Williamsburg,1025,Brooklyn
+2024,Windsor Terrace-South Slope,277,Brooklyn
+2024,Woodhaven,121,Queens
+2024,Woodlawn Cemetery,1,Bronx
+2024,Woodside,428,Queens
+2024,Yankee Stadium-Macombs Dam Park,15,Bronx
+2024,Freshkills Park (South),1,Staten Island
+2024,Pelham Bay Park,0,Bronx
+2024,Soundview Park,0,Bronx
+2024,St. Michael's Cemetery,0,Queens
+2024,Sunnyside Yards (North),12,Queens
+2024,Astoria Park,0,Queens
+2024,Brooklyn Navy Yard,0,Brooklyn
+2024,Dyker Beach Park,1,Brooklyn
+2024,Highland Park-Cypress Hills Cemeteries (South),1,Brooklyn
+2024,Lincoln Terrace Park,0,Brooklyn
+2024,Flushing Meadows-Corona Park,1,Queens
+2024,Holy Cross Cemetery,2,Brooklyn
+2024,Mount Olivet & All Faiths Cemeteries,0,Queens
+2024,Calvary & Mount Zion Cemeteries,0,Queens
+2024,Fort Hamilton,0,Brooklyn
+2024,Highbridge Park,1,Manhattan
+2024,The Evergreens Cemetery,2,Brooklyn
+2024,Rockaway Community Park,0,Queens
+2024,St. John Cemetery,0,Queens
+2024,Alley Pond Park,1,Queens
+2024,Green-Wood Cemetery,2,Brooklyn
+2025,Allerton,139,Bronx
+2025,Annadale-Huguenot-Prince's Bay-Woodrow,60,Staten Island
+2025,Arden Heights-Rossville,55,Staten Island
+2025,Astoria (Central),313,Queens
+2025,Astoria (East)-Woodside (North),485,Queens
+2025,Astoria (North)-Ditmars-Steinway,275,Queens
+2025,Auburndale,55,Queens
+2025,Baisley Park,102,Queens
+2025,Barren Island-Floyd Bennett Field,0,Brooklyn
+2025,Bath Beach,87,Brooklyn
+2025,Bay Ridge,474,Brooklyn
+2025,Bay Terrace-Clearview,11,Queens
+2025,Bayside,29,Queens
+2025,Bedford Park,960,Bronx
+2025,Bedford-Stuyvesant (East),11514,Brooklyn
+2025,Bedford-Stuyvesant (West),11755,Brooklyn
+2025,Bellerose,41,Queens
+2025,Belmont,2703,Bronx
+2025,Bensonhurst,237,Brooklyn
+2025,Borough Park,110,Brooklyn
+2025,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,21,Queens
+2025,Brighton Beach,236,Brooklyn
+2025,Bronx Park,1,Bronx
+2025,Brooklyn Heights,489,Brooklyn
+2025,Brownsville,149,Brooklyn
+2025,Bushwick (East),8047,Brooklyn
+2025,Bushwick (West),8067,Brooklyn
+2025,Cambria Heights,25,Queens
+2025,Canarsie,132,Brooklyn
+2025,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,684,Brooklyn
+2025,Castle Hill-Unionport,91,Bronx
+2025,Central Park,2,Manhattan
+2025,Chelsea-Hudson Yards,1064,Manhattan
+2025,Chinatown-Two Bridges,1802,Manhattan
+2025,Claremont Village-Claremont (East),223,Bronx
+2025,Clinton Hill,674,Brooklyn
+2025,Co-op City,5,Bronx
+2025,College Point,40,Queens
+2025,Concourse-Concourse Village,3193,Bronx
+2025,Coney Island-Sea Gate,116,Brooklyn
+2025,Corona,205,Queens
+2025,Crotona Park East,433,Bronx
+2025,Crown Heights (North),5930,Brooklyn
+2025,Crown Heights (South),3493,Brooklyn
+2025,Cypress Hills,117,Brooklyn
+2025,Douglaston-Little Neck,28,Queens
+2025,Downtown Brooklyn-DUMBO-Boerum Hill,461,Brooklyn
+2025,Dyker Heights,122,Brooklyn
+2025,East Elmhurst,88,Queens
+2025,East Flatbush-Erasmus,369,Brooklyn
+2025,East Flatbush-Farragut,86,Brooklyn
+2025,East Flatbush-Remsen Village,145,Brooklyn
+2025,East Flatbush-Rugby,148,Brooklyn
+2025,East Flushing,31,Queens
+2025,East Harlem (North),4090,Manhattan
+2025,East Harlem (South),1997,Manhattan
+2025,East Midtown-Turtle Bay,1220,Manhattan
+2025,East New York (North),183,Brooklyn
+2025,East New York-City Line,138,Brooklyn
+2025,East New York-New Lots,147,Brooklyn
+2025,East Village,4761,Manhattan
+2025,East Williamsburg,411,Brooklyn
+2025,Eastchester-Edenwald-Baychester,143,Bronx
+2025,Elmhurst,394,Queens
+2025,Far Rockaway-Bayswater,89,Queens
+2025,Financial District-Battery Park City,133,Manhattan
+2025,Flatbush,969,Brooklyn
+2025,Flatbush (West)-Ditmas Park-Parkville,452,Brooklyn
+2025,Flatlands,136,Brooklyn
+2025,Flushing-Willets Point,140,Queens
+2025,Fordham Heights,1448,Bronx
+2025,Forest Hills,334,Queens
+2025,Fort Greene,256,Brooklyn
+2025,Fresh Meadows-Utopia,16,Queens
+2025,Glen Oaks-Floral Park-New Hyde Park,23,Queens
+2025,Glendale,207,Queens
+2025,Gramercy,961,Manhattan
+2025,Grasmere-Arrochar-South Beach-Dongan Hills,72,Staten Island
+2025,Gravesend (East)-Homecrest,119,Brooklyn
+2025,Gravesend (South),58,Brooklyn
+2025,Gravesend (West),116,Brooklyn
+2025,Great Kills-Eltingville,146,Staten Island
+2025,Greenpoint,1015,Brooklyn
+2025,Greenwich Village,368,Manhattan
+2025,Hamilton Heights-Sugar Hill,3144,Manhattan
+2025,Harlem (North),4848,Manhattan
+2025,Harlem (South),3780,Manhattan
+2025,Hell's Kitchen,1153,Manhattan
+2025,Highbridge,1547,Bronx
+2025,Hollis,31,Queens
+2025,Howard Beach-Lindenwood,56,Queens
+2025,Hunts Point,1359,Bronx
+2025,Hutchinson Metro Center,3,Bronx
+2025,Inwood,634,Manhattan
+2025,Inwood Hill Park,0,Manhattan
+2025,Jackson Heights,547,Queens
+2025,Jacob Riis Park-Fort Tilden-Breezy Point Tip,2,Queens
+2025,Jamaica,292,Queens
+2025,Jamaica Estates-Holliswood,30,Queens
+2025,Jamaica Hills-Briarwood,149,Queens
+2025,Kensington,254,Brooklyn
+2025,Kew Gardens,19,Queens
+2025,Kew Gardens Hills,105,Queens
+2025,Kingsbridge Heights-Van Cortlandt Village,743,Bronx
+2025,Kingsbridge-Marble Hill,116,Bronx
+2025,Laurelton,53,Queens
+2025,Long Island City-Hunters Point,97,Queens
+2025,Longwood,471,Bronx
+2025,Lower East Side,1401,Manhattan
+2025,Madison,63,Brooklyn
+2025,Manhattanville-West Harlem,694,Manhattan
+2025,Mapleton-Midwood (West),93,Brooklyn
+2025,Marine Park-Mill Basin-Bergen Beach,120,Brooklyn
+2025,Marine Park-Plumb Island,0,Brooklyn
+2025,Mariner's Harbor-Arlington-Graniteville,75,Staten Island
+2025,Maspeth,222,Queens
+2025,Melrose,263,Bronx
+2025,Middle Village,116,Queens
+2025,Midtown South-Flatiron-Union Square,63,Manhattan
+2025,Midtown-Times Square,121,Manhattan
+2025,Midwood,137,Brooklyn
+2025,Morningside Heights,693,Manhattan
+2025,Morris Park,91,Bronx
+2025,Morrisania,309,Bronx
+2025,Mott Haven-Port Morris,305,Bronx
+2025,Mount Eden-Claremont (West),2143,Bronx
+2025,Mount Hope,2434,Bronx
+2025,Murray Hill-Broadway Flushing,117,Queens
+2025,Murray Hill-Kips Bay,1481,Manhattan
+2025,New Dorp-Midland Beach,80,Staten Island
+2025,New Springville-Willowbrook-Bulls Head-Travis,59,Staten Island
+2025,North Corona,156,Queens
+2025,Norwood,1016,Bronx
+2025,Oakland Gardens-Hollis Hills,19,Queens
+2025,Oakwood-Richmondtown,26,Staten Island
+2025,Ocean Hill,707,Brooklyn
+2025,Old Astoria-Hallets Point,45,Queens
+2025,Ozone Park,47,Queens
+2025,Ozone Park (North),38,Queens
+2025,Park Slope,397,Brooklyn
+2025,Parkchester,40,Bronx
+2025,Pelham Bay-Country Club-City Island,59,Bronx
+2025,Pelham Gardens,43,Bronx
+2025,Pelham Parkway-Van Nest,358,Bronx
+2025,Pomonok-Electchester-Hillcrest,59,Queens
+2025,Port Richmond,65,Staten Island
+2025,Prospect Heights,1353,Brooklyn
+2025,Prospect Lefferts Gardens-Wingate,340,Brooklyn
+2025,Prospect Park,2,Brooklyn
+2025,Queens Village,83,Queens
+2025,Queensboro Hill,30,Queens
+2025,Queensbridge-Ravenswood-Dutch Kills,175,Queens
+2025,Randall's Island,9,Manhattan
+2025,Rego Park,113,Queens
+2025,Richmond Hill,73,Queens
+2025,Ridgewood,2758,Queens
+2025,Rikers Island,0,Bronx
+2025,Riverdale-Spuyten Duyvil,114,Bronx
+2025,Rockaway Beach-Arverne-Edgemere,50,Queens
+2025,Rosebank-Shore Acres-Park Hill,38,Staten Island
+2025,Rosedale,26,Queens
+2025,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,169,Brooklyn
+2025,SoHo-Little Italy-Hudson Square,1068,Manhattan
+2025,Soundview-Bruckner-Bronx River,3364,Bronx
+2025,Soundview-Clason Point,45,Bronx
+2025,South Jamaica,196,Queens
+2025,South Ozone Park,207,Queens
+2025,South Richmond Hill,68,Queens
+2025,South Williamsburg,115,Brooklyn
+2025,Spring Creek-Starrett City,39,Brooklyn
+2025,Springfield Gardens (North)-Rochdale Village,31,Queens
+2025,Springfield Gardens (South)-Brookville,31,Queens
+2025,St. Albans,112,Queens
+2025,St. George-New Brighton,129,Staten Island
+2025,Stuyvesant Town-Peter Cooper Village,12,Manhattan
+2025,Sunnyside,342,Queens
+2025,Sunnyside Yards (South),3,Queens
+2025,Sunset Park (Central),155,Brooklyn
+2025,Sunset Park (East)-Borough Park (West),114,Brooklyn
+2025,Sunset Park (West),499,Brooklyn
+2025,Throgs Neck-Schuylerville,56,Bronx
+2025,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,45,Staten Island
+2025,Tompkinsville-Stapleton-Clifton-Fox Hills,68,Staten Island
+2025,Tottenville-Charleston,17,Staten Island
+2025,Tremont,3010,Bronx
+2025,Tribeca-Civic Center,181,Manhattan
+2025,United Nations,1,Manhattan
+2025,University Heights (North)-Fordham,1125,Bronx
+2025,University Heights (South)-Morris Heights,2258,Bronx
+2025,Upper East Side-Carnegie Hill,561,Manhattan
+2025,Upper East Side-Lenox Hill-Roosevelt Island,264,Manhattan
+2025,Upper East Side-Yorkville,1778,Manhattan
+2025,Upper West Side (Central),2154,Manhattan
+2025,Upper West Side-Lincoln Square,1260,Manhattan
+2025,Upper West Side-Manhattan Valley,1351,Manhattan
+2025,Van Cortlandt Park,0,Bronx
+2025,Wakefield-Woodlawn,140,Bronx
+2025,Washington Heights (North),820,Manhattan
+2025,Washington Heights (South),816,Manhattan
+2025,West Farms,907,Bronx
+2025,West New Brighton-Silver Lake-Grymes Hill,117,Staten Island
+2025,West Village,1255,Manhattan
+2025,Westchester Square,36,Bronx
+2025,Westerleigh-Castleton Corners,80,Staten Island
+2025,Whitestone-Beechhurst,42,Queens
+2025,Williamsbridge-Olinville,192,Bronx
+2025,Williamsburg,651,Brooklyn
+2025,Windsor Terrace-South Slope,125,Brooklyn
+2025,Woodhaven,58,Queens
+2025,Woodlawn Cemetery,1,Bronx
+2025,Woodside,212,Queens
+2025,Yankee Stadium-Macombs Dam Park,10,Bronx
+2025,Freshkills Park (South),1,Staten Island
+2025,Pelham Bay Park,0,Bronx
+2025,Soundview Park,0,Bronx
+2025,St. Michael's Cemetery,0,Queens
+2025,Sunnyside Yards (North),5,Queens
+2025,Astoria Park,0,Queens
+2025,Brooklyn Navy Yard,1,Brooklyn
+2025,Dyker Beach Park,1,Brooklyn
+2025,Highland Park-Cypress Hills Cemeteries (South),0,Brooklyn
+2025,Lincoln Terrace Park,0,Brooklyn
+2025,Flushing Meadows-Corona Park,0,Queens
+2025,Holy Cross Cemetery,0,Brooklyn
+2025,Mount Olivet & All Faiths Cemeteries,0,Queens
+2025,Calvary & Mount Zion Cemeteries,0,Queens
+2025,Fort Hamilton,0,Brooklyn
+2025,Highbridge Park,0,Manhattan
+2025,The Evergreens Cemetery,2,Brooklyn
+2025,Rockaway Community Park,0,Queens
+2025,St. John Cemetery,0,Queens
+2025,Alley Pond Park,0,Queens
+2025,Green-Wood Cemetery,4,Brooklyn
